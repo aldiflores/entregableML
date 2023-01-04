@@ -378,6 +378,16 @@ button.resetbutton {
     main section .products article {
         width: 45%;
     }
+    
+    form.formregister{
+      display: grid;
+    box-sizing: border-box;
+    margin-top: 38px;
+    gap: 22px;
+    padding-left: 84vh;
+    padding-right: 297vh;   
+    }
+   
 }
 
 @media (min-width: 769px) {
